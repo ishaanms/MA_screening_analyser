@@ -381,36 +381,12 @@ Contributions welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
 ## 🙏 Acknowledgments
 
 - Google Gemini API for free LLM access
 - Streamlit for rapid UI development
 - Plotly for interactive visualizations
 - BeautifulSoup for reliable web scraping
-
----
-
-## 📞 Support
-
-For issues or questions:
-- Open a GitHub issue
-- Email: your.email@example.com
-- Schedule a call: [calendly.com/yourlink](https://calendly.com/yourlink)
 
 ---
 
